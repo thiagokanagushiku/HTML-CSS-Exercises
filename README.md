@@ -1,2 +1,2 @@
-# HTML-CSS-Exercises
- HTML CSS exercises from Curso em Vídeo 
+# HTML CSS Exercises 
+ HTML CSS exercises from Estudonauta. 
